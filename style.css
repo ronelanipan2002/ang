@@ -1,0 +1,11 @@
+date{
+
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+
+body{
+    background-color: hsl(33, 100%, 21%);
+}
